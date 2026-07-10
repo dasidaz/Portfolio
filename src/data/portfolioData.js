@@ -6,7 +6,7 @@ export const menuItems = [
 export const personalInfo = {
   name: "Luke Hyungi Lee",
   role: "Software Developer",
-  description: "I am a Software Development student at Seneca Polytechnic, expecting to graduate in Dec 2026. I specialize in full-stack web development using React and Node.js, with a strong focus on building real-time interactive applications using Socket.io. I am highly motivated to write clean, scalable, and maintainable code."
+  description: "I am a Software Development student at Seneca Polytechnic, expecting to graduate in Decgi 2026. I specialize in full-stack web development using React and Node.js, with a strong focus on building real-time interactive applications using Socket.io. I am highly motivated to write clean, scalable, and maintainable code."
 };
 
 export const projectsData = [
@@ -21,7 +21,7 @@ export const projectsData = [
   {
     id: 2,
     title: "DPS920: Computer Vision Final Project",
-    description: "Developed a computer vision application for the DPS920 course. [Please provide a brief summary of the project's features and your specific contributions so I can craft a professional, impact-driven description for this section.]",
+    description: "Developed a computer vision application for the DPS920 course. This project implements a system for detecting motion in sports videos and visualizes a viewport that follows the action. It is useful for automating analysis or focusing on the most interesting parts (ROI) of sport videos.",
     techStack: ["Python", "OpenCV", "Machine Learning"],
     imageUrl: "/images/vision.png",
     githubUrl: "https://github.com/dasidaz/DPS920-Final-Project"
