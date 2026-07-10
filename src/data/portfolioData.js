@@ -6,7 +6,7 @@ export const menuItems = [
 export const personalInfo = {
   name: "Luke Hyungi Lee",
   role: "Software Developer",
-  description: "I am a Software Development student at Seneca Polytechnic, expecting to graduate in September 2026. I specialize in full-stack web development using React and Node.js, with a strong focus on building real-time interactive applications using Socket.io. I am highly motivated to write clean, scalable, and maintainable code."
+  description: "I am a Software Development student at Seneca Polytechnic, expecting to graduate in Dec 2026. I specialize in full-stack web development using React and Node.js, with a strong focus on building real-time interactive applications using Socket.io. I am highly motivated to write clean, scalable, and maintainable code."
 };
 
 export const projectsData = [
