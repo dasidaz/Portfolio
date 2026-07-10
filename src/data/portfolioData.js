@@ -20,8 +20,8 @@ export const projectsData = [
   },
   {
     id: 2,
-    title: "DPS920: Computer Vision Final Project",
-    description: "Developed a computer vision application for the DPS920 course. This project implements a system for detecting motion in sports videos and visualizes a viewport that follows the action. It is useful for automating analysis or focusing on the most interesting parts (ROI) of sport videos.",
+    title: "Computer Vision - Motion Detecting",
+    description: "Developed a computer vision application for the Computer Vision course. This project implements a system for detecting motion in sports videos and visualizes a viewport that follows the action. It is useful for automating analysis or focusing on the most interesting parts (ROI) of sport videos.",
     techStack: ["Python", "OpenCV", "Machine Learning"],
     imageUrl: "/images/vision.png",
     githubUrl: "https://github.com/dasidaz/DPS920-Final-Project"
